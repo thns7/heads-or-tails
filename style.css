@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    flex-direction: row;
+
+}
+
+.imagem{
+    height: 100%;
+}
+
+.texto{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 30px;
+  justify-content: space-around;
+    
+}
+.titulo{
+    margin-left: 80px;
+    font-size: 100px;
+    color:blueviolet;
+    
+}
+
+button{
+    width: 100px;
+    height: 30px;
+}
+
+#divMoeda{
+    color: red;
+}
+
+.textinho{
+    color: blue;
+}
